@@ -4,13 +4,7 @@ h5py
 Jinja2
 Keras
 numpy
-opencv-python
 pandas
 Pillow
 requests
-scipy
-tensorboard
 tensorflow
-tqdm
-urllib3
-utils
