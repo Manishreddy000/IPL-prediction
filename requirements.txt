@@ -1,10 +1,7 @@
 Flask
 gunicorn
-h5py
 Jinja2
-Keras
 numpy
 pandas
-Pillow
 requests
 tensorflow
